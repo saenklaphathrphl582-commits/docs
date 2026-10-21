@@ -12,11 +12,12 @@ The repository provides a safe and maintainable place for:
 - configuration definitions
 - policy and governance guidance
 
-## Structure
+## Repository structure
 
 - `config/` — configuration and YAML policy artifacts
 - `docs/` — documentation and design notes
 - `src/` — application or automation source files
+- `main.py` — project entry point
 
 ## Operating principles
 
